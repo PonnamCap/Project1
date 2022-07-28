@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "data.exception.msg",
+    "type": "java.lang.String",
+    "description": "A description for 'data.exception.msg'"
+  },
+  {
+    "name": "data.exception.msg1",
+    "type": "java.lang.String",
+    "description": "A description for 'data.exception.msg1'"
+  },
+  {
+    "name": "product.datasource.name",
+    "type": "java.lang.String",
+    "description": "A description for 'product.datasource.name'"
+  },
+  {
+    "name": "product.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'product.datasource.url'"
+  },
+  {
+    "name": "product.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'product.datasource.password'"
+  },
+  {
+    "name": "product.datasource.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'product.datasource.driver-class-name'"
+  }
+]}
